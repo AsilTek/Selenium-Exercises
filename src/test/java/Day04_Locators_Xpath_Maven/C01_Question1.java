@@ -18,6 +18,7 @@ public class C01_Question1 {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
+
         //2- Go to https://www.automationexercise.com/
         String weirdURL = "https://the-internet.herokuapp.com/add_remove_elements/";
         driver.get(weirdURL);
