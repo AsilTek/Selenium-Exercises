@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31c49cfd-620b-47c6-85aa-1d54e3855941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day04_Locators_Xpath_Maven/C03_RelativeLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day05_Maven/C01_MavenFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day05_Maven/C02_Question1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day03_Locators/FurkaninSorusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day03_Locators/FurkaninSorusu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day04_Locators_Xpath_Maven/C01_Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day04_Locators_Xpath_Maven/C01_Question1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_Maven/C02_Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day05_Maven/C02_Question1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

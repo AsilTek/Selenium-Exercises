@@ -38,6 +38,7 @@ public class C02_Question1 {
         Thread.sleep(2000);
 
 
+
         // 5. Click the Sign in button
         WebElement clickSignIn = driver.findElement(By.xpath("//input[@type='submit']"));
         clickSignIn.click();
